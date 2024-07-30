@@ -14,7 +14,6 @@ Average Packet Size (in bytes): The average size of packets in the network traff
 Packet Length Standard Deviation (in bytes): The standard deviation of packet lengths in the network traffic.
 Max Backward Packet Length (in bytes): The maximum length of backward packets in the network traffic.
 
-Training Model Dataset from CICIDS 2017 Dataset: 
-https://www.unb.ca/cic/datasets/ids-2017.html 
+Training Model Dataset from CICIDS 2017 Dataset: <link>https://www.unb.ca/cic/datasets/ids-2017.html</link>
 
 
